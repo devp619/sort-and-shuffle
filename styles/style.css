@@ -165,7 +165,7 @@ footer {
     grid-template-columns: auto;
   }
 
-  .item-height {
+  #shuffleAndSort > * {
     min-height: 90px;
     color: black;
     font-size: 3em;
